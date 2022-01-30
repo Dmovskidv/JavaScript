@@ -1,7 +1,3 @@
-.vscode
-# dependencies
-/client/node_modules
-/server/node_modules
-
-# production
-/client/build
+vscode
+node_modules
+dist
